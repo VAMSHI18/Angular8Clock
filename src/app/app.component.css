@@ -1,0 +1,19 @@
+.paading-styles {
+    padding-top: 200px;
+    padding-left: 200px;
+}
+
+.border-time {
+    /* background-color: lightskyblue; */
+    border: 40px solid;
+    border-bottom-width: 10px;
+    /* border-radius: 40px; */
+    font-size: 60px;
+    border-block-color: green;
+    border-radius: 10px;
+}
+
+.colon-styling {
+    margin: 10px;
+    font-size: 100px;
+}
